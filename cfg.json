@@ -1,0 +1,10 @@
+{
+    "token": "vk1.a.TNQ_q9AvUdynqoOybxoV5c8ppKT0Cjh46iEsFK2DN6geK5S9olthsqbIOKFM1mmQ94XiIH4dPbN6hckO9wtR4SRI1J6uBhc0gmtnZ1iihERxow00loQ_f11n0XViG7a2GvZBvTPY7xjw1hEUsiTvs4Lm9M1QXE7CP62u5yUl-9ITJtC2PiEifLcRyhNBP4C2ulXye2b2AglWXvBp8PvVig",
+    "name": "Chebupelki",
+
+    "peers": {
+        "game": 2000000001
+    },
+
+    "mongoIp": "mongodb://127.0.0.1:27017"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "chebupelki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "node-cron": "^3.0.3",
+    "random": "^4.1.0",
+    "vk-io": "^4.9.1"
+  }
+}
